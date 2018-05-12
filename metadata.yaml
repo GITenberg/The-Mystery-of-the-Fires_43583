@@ -1,0 +1,29 @@
+_repo: The-Mystery-of-the-Fires_43583
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43583-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Lavell, Edith
+    gutenberg_agent_id: '26346'
+    url: http://www.gutenberg.org/2009/agents/26346
+description: ''
+gutenberg_issued: '2013-08-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43583'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children of police -- Juvenile fiction'
+- !lcsh 'Camps -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Teenage girls -- Juvenile fiction'
+- !lcsh 'Women detectives -- Juvenile fiction'
+- !lcsh 'Arson -- Juvenile fiction'
+title: The Mystery of the Fires
+url: http://www.gutenberg.org/ebooks/43583
